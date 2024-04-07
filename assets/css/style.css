@@ -1,15 +1,23 @@
 body{
     text-align: center;
-    color: white;
 }
 .bg2{
     background-color: #5499C7;
+    color: white;
 }
 .type{
     list-style-type: none;
 }
 .bg{
     background-color: #2B3D89;
+    color: white;
+}
+.bg3{
+    background-color: #0E6655 ;
+    color: white;
+}
+.card{
+    margin-bottom: 20px;
 }
 footer{
     width: 100%;
@@ -17,4 +25,5 @@ footer{
     height: auto;
     line-height: auto;
     text-align: center;
+    color: white;
 }
