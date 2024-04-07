@@ -4,21 +4,24 @@ body{
 .foto{
     display: block;
     margin: 0px ;
-    width: auto;
+    width: 200px;
+}
+.color{
+    color: white;
 }
 .bg2{
-    background-color: #5499C7;
+    background-color: black;
     color: white;
 }
 .type{
     list-style-type: none;
 }
 .bg{
-    background-color: #2B3D89;
+    background-color: black;
     color: white;
 }
 .bg3{
-    background-color: #0E6655 ;
+    background-color: black ;
     color: white;
 }
 .card{
