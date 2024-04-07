@@ -6,7 +6,7 @@ body{
     margin: 0px ;
 }
 .sizeimg{
-    width: 200px;
+    width: auto;
 }
 .color{
     color: white;
