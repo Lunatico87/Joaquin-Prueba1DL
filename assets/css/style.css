@@ -4,6 +4,8 @@ body{
 .foto{
     display: block;
     margin: 0px ;
+}
+.sizeimg{
     width: 200px;
 }
 .color{
