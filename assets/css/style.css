@@ -6,7 +6,8 @@ body{
     margin: 0px ;
 }
 .sizeimg{
-    width: auto;
+    width: 20%;
+    height: 200px;
 }
 .color{
     color: white;
@@ -36,6 +37,7 @@ footer{
     line-height: auto;
     text-align: center;
     color: white;
+    margin: 0px;
 }
 .link{
     list-style-type: none;
