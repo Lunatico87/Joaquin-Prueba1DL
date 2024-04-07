@@ -4,9 +4,10 @@ body{
 .foto{
     display: block;
     margin: 0px ;
+    justify-content: center;
 }
 .sizeimg{
-    width: 20%;
+    width: 200px;
     height: 200px;
 }
 .color{
@@ -20,7 +21,7 @@ body{
     list-style-type: none;
 }
 .bg{
-    background-color: black;
+    background-color: #2B3D89;
     color: white;
 }
 .bg3{
