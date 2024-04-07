@@ -5,6 +5,7 @@ body{
     display: flex;
     margin: 0px ;
     justify-content: center;
+    align-items: center;
 }
 .sizeimg{
     width: 200px;
