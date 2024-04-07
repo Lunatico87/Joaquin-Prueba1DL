@@ -1,6 +1,11 @@
 body{
     text-align: center;
 }
+.foto{
+    display: block;
+    margin: 0px ;
+    width: auto;
+}
 .bg2{
     background-color: #5499C7;
     color: white;
@@ -26,4 +31,7 @@ footer{
     line-height: auto;
     text-align: center;
     color: white;
+}
+.link{
+    list-style-type: none;
 }
