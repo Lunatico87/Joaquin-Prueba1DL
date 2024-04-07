@@ -16,6 +16,9 @@ body{
     background-color: #0E6655 ;
     color: white;
 }
+.card{
+    color:black;
+}
 footer{
     width: 100%;
     background-color:  #2B3D89  ;
