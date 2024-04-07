@@ -2,7 +2,6 @@ body{
     text-align: center;
 }
 .foto{
-    display: flex;
     margin: 0px ;
     justify-content: center;
     align-items: center;
